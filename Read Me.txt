@@ -1,0 +1,3 @@
+This is the instruction for the iptv program.
+
+An Iptv Playlist is already inputted for you for testing but you could add any Playlist from the web

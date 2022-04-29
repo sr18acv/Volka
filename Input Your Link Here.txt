@@ -1,0 +1,2 @@
+Please put the M3U in next line:
+https://iptv-org.github.io/iptv/languages/eng.m3u
